@@ -7,7 +7,5 @@ A multiple-Reference–based Gene Search and Plot (ReGSP) is a simple and conven
 #### files in this repository
 - Website (production level file built using Angular 10)
 - api (Flask api for web communication with back-end)
-- regsp (phyton file for gene searching and MUMmer plot)
-- cPlot (python file nucleotide sequence similarity analysis using *k-mer*)
 
 The `ReGSP` web tool for analysis can be accessed at this [site](https://ds.mju.ac.kr/regsp)
